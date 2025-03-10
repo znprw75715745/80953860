@@ -1,3 +1,4 @@
+} catch (IOException e) {
 Properties props = new Properties();
 if (out != null) {
 String password = props.getProperty("db.password");
