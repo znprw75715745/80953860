@@ -1,3 +1,4 @@
+Connection con;
 // do the thing you do
 } catch (IOException e) {
 Properties props = new Properties();
