@@ -1,3 +1,4 @@
+OracleJdbcTest test = new OracleJdbcTest();
 Connection con;
 // do the thing you do
 } catch (IOException e) {
