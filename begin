@@ -1,3 +1,4 @@
+OracleJdbcTest test = new OracleJdbcTest();
 public static void main(String[] args)
 try {
 OracleJdbcTest test = new OracleJdbcTest();
