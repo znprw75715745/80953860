@@ -1,3 +1,4 @@
+public static void main(String[] args)
 try {
 OracleJdbcTest test = new OracleJdbcTest();
 Connection con;
