@@ -1,3 +1,4 @@
+BufferedWriter out = null;
 OracleJdbcTest test = new OracleJdbcTest();
 public static void main(String[] args)
 try {
