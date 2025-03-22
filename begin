@@ -1,3 +1,4 @@
+// do the thing you do
 Properties props = new Properties();
 BufferedWriter out = null;
 OracleJdbcTest test = new OracleJdbcTest();
