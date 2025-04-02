@@ -1,3 +1,4 @@
+public void init(FileInputStream fs) throws ClassNotFoundException, SQLException, FileNotFoundException, IOException
 public class OracleJdbcTest
 out = new BufferedWriter(new FileWriter(”filename”, true));
 // error processing code
